@@ -10,7 +10,7 @@ Python (pandas, numpy), Airflow.
 
 # Структура 
 
-     📂 domains_stat_dag
+    📂 domains_stat_dag
     ├── domains_stat_dag.py   # DAG для обработки доменов
     └── top-1m.csv            # датасет с доменами
     
